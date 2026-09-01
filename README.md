@@ -1,2 +1,2 @@
 # Project-Tetris
-Making the Tetris game using Java
+Making the Tetris game using Java as the programming language.
