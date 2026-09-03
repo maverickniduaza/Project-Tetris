@@ -16,6 +16,7 @@ Continued developing my Tetris project in Java.
 
 ### Completed
 - Completed the Minos/Blocks classes
+- it is already playable but is still missing some parts like the clearing of each lines when the player completes a whole line
 
 ### Next
 - Continue implementing the remaining classes
