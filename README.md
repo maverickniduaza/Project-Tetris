@@ -8,7 +8,7 @@ This is my first major Java project and my first project for my GitHub repositor
 ## Development Progress
 
 ### September 1, 2026
-## Progress — Day 1
+## Progress - Day 1
 
 Started making the Tetris game using **Java** as the programming language.
 
@@ -16,13 +16,13 @@ This project is still ongoing, but so far so good! :))
 
 
 ### September 2, 2026
-## Progress — Day 2
+## Progress - Day 2
 
 Added more classes and finished two of the **Minos/Blocks classes**.
 
 
 ### September 3, 2026
-## Progress — Day 3
+## Progress - Day 3
 
 Continued developing my Tetris project in Java.
 
@@ -40,7 +40,7 @@ The game was already playable, but it was still missing some important parts, su
 
 
 ### September 4, 2026
-## Progress — Day 4 
+## Progress - Day 4 
 
 Today, I finally finished the Tetris game!
 
