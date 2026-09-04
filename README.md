@@ -21,3 +21,7 @@ Continued developing my Tetris project in Java.
 ### Next
 - Continue implementing the remaining classes
 - Test how the classes work together
+
+
+September 4, 2026:
+## Progress - Day 4
